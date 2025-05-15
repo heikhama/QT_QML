@@ -1,0 +1,43 @@
+-> Installing Qt 6.9
+-> Install PostgreSQL 17
+-> Libpqxx7.10 (communication between CPP and SQL)
+-> PGadmin -> A gui IDE to create DB or Table in PostgreSQL. management Software.
+
+
+
+
+
+
+QML-> QML Widget
+backend-> c++
+and then Data communication with
+PostgreSQL.
+
+MVVM-> Model ViewModel 
+GUI-> VM.cpp -> Model.cpp-> DB
+
+How to design a Page in QML?
+
+Page-> User Registration
+	Username
+	password
+	email ID
+	address
+
+Submit Button-> send data VM-> Model-> DB
+
+Signal and Slots where data will communicate
+between VM-Model
+
+DB we will use as Library C++ we will create a .so file of the DB.
+
+How to create DB, Table, Write schema SQL and Writing query for submitting the DATA to DB
+and learn query for reading data from DB
+
+
+
+
+
+
+
+
